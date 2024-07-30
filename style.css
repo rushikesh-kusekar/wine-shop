@@ -106,7 +106,14 @@ body{
     font-size: 25px;
     margin: 2px;
 }
+.wine-name-img{
+    height: 40px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
 .wine-name{
+    display: flex;
+    justify-content: center;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: #4d0000;
@@ -115,6 +122,12 @@ body{
     margin-top:20px;
     display: flex;
     justify-content: center;
+}
+.arrows-symbol{
+    height: 30px;
+    margin-top: 200px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .wine-cards{
     width: 210px;
